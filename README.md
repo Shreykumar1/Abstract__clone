@@ -1,5 +1,5 @@
 # Site Url
-https://www.frontendpractice.com/projects/abstract
+https://abstract-shrey.netlify.app/
 
 # Frontend Practice - Abstarct Website clone
 https://www.frontendpractice.com/projects
