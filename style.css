@@ -68,6 +68,9 @@ body {
   background-color: #fff;
   color: #4c5fd5;
 }
+.br{
+  display : none;
+}
 
 /* navbar styling ends here */
 
@@ -201,6 +204,9 @@ a:hover {
     font-size: 13px;
     margin-left: 7px;
     padding: 6px 14px;
+  }
+  .br{
+    display : block;
   }
 
   /* SEARCHBAR STYLING FOR RESPONSIVE */
